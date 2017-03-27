@@ -1,3 +1,4 @@
+
 *{
   text-align: center;
 }
@@ -31,3 +32,10 @@ h1 {
   font-family: Helvetica;
   font-size: 18px;
 }
+
+.footer {
+    background-color: dimgray;
+    font-size: 11px;
+    color: white;
+}
+
